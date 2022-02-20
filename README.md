@@ -1,7 +1,7 @@
 # uudev
-![Statistics](https://github-readme-stats.vercel.app/api?username=uktamka&show_icons=true&count_private=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=uktamka)
+![Statistics](https://github-readme-stats.vercel.app/api?username=uktamka&show_icons=true&count_private=true&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=uktamka&theme=dark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=uktamka&theme=onedark)
 ![Code wars](https://www.codewars.com/users/uktamka/badges/large)
 
 Here are some ideas to get you started:
