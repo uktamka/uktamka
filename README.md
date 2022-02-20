@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on vue projects.
-- 🌱 I’m currently learning Nuxt, Vue Native, Docker, Strapi, Gsap.
+- 🌱 I’m currently learning Nuxt 3, Vue 3, Docker, Strapi, Gsap.
 - 👯 I’m looking to collaborate with good people.
 - 🤔 I’m looking for help with myself.
 - 💬 Ask me about everything.
