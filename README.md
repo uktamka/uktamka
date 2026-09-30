@@ -1,6 +1,6 @@
 # Uktam Usmanov
 
-**Senior Frontend / Full-Stack Developer** · Vue 3, Nuxt, TypeScript · Node.js (NestJS)
+**Senior Frontend Developer** · Full-Stack with Node.js (NestJS) · Vue 3, Nuxt, TypeScript
 
 5+ years of commercial development. I build web products end to end: SSR frontends in Vue 3 / Nuxt, backends in NestJS with Prisma and PostgreSQL, integrations (Stripe, Directus, LLM APIs) and CI/CD.
 
